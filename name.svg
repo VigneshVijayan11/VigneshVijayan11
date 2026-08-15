@@ -1,8 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="100%" height="100%">
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" 
-        fill="#FF6B8B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
-        font-size="48" font-weight="400" letter-spacing="2">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="60" viewBox="0 0 600 60">
+  <style>
+    .text {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 42px;
+      font-weight: 300;
+      fill: #FF5376;
+      letter-spacing: -1.5px; /* Adjust this value to make letter space smaller or wider */
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" class="text">
     Vignesh V
   </text>
 </svg>
+
 
