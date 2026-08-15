@@ -1,8 +1,6 @@
 ## Hi there 👋
  
 ‎
-
-
    ![Vignesh V](./name.svg)
    
 <p align="center">
