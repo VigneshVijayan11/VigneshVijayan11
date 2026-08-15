@@ -1,1 +1,8 @@
-![Vignesh V](./name.svg)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="100%" height="100%">
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" 
+        fill="#FF6B8B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="48" font-weight="400" letter-spacing="2">
+    Vignesh V
+  </text>
+</svg>
+
